@@ -29,6 +29,7 @@ source venv/bin/activate
 - Chạy ứng dụng
 streamlit run app.py
 Ứng dụng sẽ mở tại: http://localhost:8501
+
 CẤU TRÚC THƯ MỤC
 sentimenT/
 │
