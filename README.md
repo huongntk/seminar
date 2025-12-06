@@ -17,8 +17,8 @@ CÔNG NGHỆ SỬ DỤNG
 - Core Python (3.8+)
 CÀI ĐẶT VÀ CHẠY ỨNG DỤNG
 - Clone repository
-git clone https://github.com/yourusername/vietnamese-sentiment-assistant.git
-cd vietnamese-sentiment-assistant
+git clone https://github.com/huongntk/sentiment.git
+cd sentiment
 - Tạo môi trường ảo (khuyến nghị)
 python -m venv venv
 # Windows
